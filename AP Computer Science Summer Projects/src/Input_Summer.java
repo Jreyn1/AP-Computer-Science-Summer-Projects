@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InputSummer
+public class Input_Summer
 	{
 		static Scanner userIntInput = new Scanner(System.in);
 		static Scanner userStringInput = new Scanner(System.in);

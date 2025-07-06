@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IfElseIfElse_Strings
+public class IfElseIfElseStrings_Summer
 	{
 		// static Scanner newIntInput= new Scanner(System.in);
 		static Scanner newStringInput= new Scanner(System.in);
