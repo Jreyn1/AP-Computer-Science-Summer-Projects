@@ -1,6 +1,5 @@
 public class Array1_Summer
 	{
-
 		public static void main(String[] args)
 			{
 				//Create array of decimal
