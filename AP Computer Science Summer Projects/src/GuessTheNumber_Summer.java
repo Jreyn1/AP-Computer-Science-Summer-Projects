@@ -9,7 +9,7 @@ public class GuessTheNumber_Summer
 			{
 				// See Random Number
 				int randomNumber = (int) (Math.random() * 10) + 1;
-				System.out.println(randomNumber);
+				//System.out.println(randomNumber);
 
 				// Start of Real Code
 				

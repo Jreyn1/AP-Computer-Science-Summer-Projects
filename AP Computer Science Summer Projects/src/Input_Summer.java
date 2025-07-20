@@ -10,7 +10,7 @@ public class Input_Summer
 				double inputFahrenheit;
 				inputFahrenheit = userIntInput.nextInt();
 				double celsius = ((inputFahrenheit - 32.0) * (5.0 / 9.0));
-				System.out.println(inputFahrenheit + " is equal to " + celsius + " degrees celsius.");
+				System.out.println(inputFahrenheit + " degrees Fahrenheit is equal to " + celsius + " degrees celsius.");
 
 			}
 
